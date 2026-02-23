@@ -329,6 +329,36 @@ textarea {
         padding-left: 0px;
     }
 
+    .input1 {
+        width: 96%;
+        height: 30px;
+        border-radius: 10px;
+        font-family: monospace;
+        font-size: 16px;
+
+    }
+
+    input {
+        width: 47%;
+        height: 30px;
+        border: 0px;
+        border-radius: 10px;
+        font-family: monospace;
+        font-size: 16px;
+
+    }
+
+    textarea {
+        border: 0px;
+        border-radius: 10px;
+        width: 96%;
+        font-size: 16px;
+    }
+
+    .button {
+        width: 45%;
+    }
+
 }
 
 /*
@@ -438,6 +468,6 @@ textarea {
 
     .description1 {
         padding-left: 0px;
-    } */
+    } 
 
-}
+}*/
