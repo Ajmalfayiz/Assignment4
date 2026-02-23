@@ -262,18 +262,26 @@ textarea {
     .parent1 {
         display: flex;
         width: 84%;
-        height: 230px;
+        height: 200px;
         background-color: white;
         border-radius: 15px;
-        padding: 40px 20px 0 20px;
+        padding:10px;
         position: relative;
         left: 2%;
         box-shadow: none
     }
 
     .parent1 .child1 {
+        padding-left: 10px;
         overflow: auto;
     }
+
+    section img {
+    border-radius: 20px;
+    position: relative;
+    left: 0px;
+    z-index: 1;
+}
 
     section div h2 {
         font-size: 36px;
