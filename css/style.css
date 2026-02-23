@@ -267,7 +267,7 @@ textarea {
         border-radius: 15px;
         padding: 40px 20px 0 20px;
         position: relative;
-        left: 3%;
+        left: 18%;
         box-shadow: none
     }
 
@@ -468,5 +468,6 @@ textarea {
 
     .description1 {
         padding-left: 0px;
-    } 
-} */
+    } */
+
+}
