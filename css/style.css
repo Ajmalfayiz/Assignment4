@@ -267,7 +267,7 @@ textarea {
         border-radius: 15px;
         padding: 40px 20px 0 20px;
         position: relative;
-        left: 18%;
+        left: 10%;
         box-shadow: none
     }
 
@@ -329,8 +329,38 @@ textarea {
         padding-left: 0px;
     }
 
+    .input1 {
+    width: 96%;
+    height: 30px;
+    border-radius: 10px;
+    font-family: monospace;
+    font-size: 16px;
+
 }
 
+input {
+    width: 47%;
+    height: 30px;
+    border: 0px;
+    border-radius: 10px;
+    font-family: monospace;
+    font-size: 16px;
+
+}
+
+textarea {
+    border: 0px;
+    border-radius: 10px;
+    width: 96%;
+    font-size: 16px;
+}
+
+.button {
+       width: 45%;
+}
+
+}
+/*
  @media(max-width:577px)and (min-width:1024px){
     nav h1 {
         font-size: 28px;
@@ -437,6 +467,5 @@ textarea {
 
     .description1 {
         padding-left: 0px;
-    } */
-
-}
+    } 
+} */
