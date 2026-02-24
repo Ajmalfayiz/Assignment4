@@ -345,8 +345,9 @@ textarea {
 
     .project img {
         position: relative;
-        left: -15px;
-        bottom: 10px;
+        left: -10px;
+        /* bottom: 10px; */
+        top: -5px;
     }
 
     .description1 {
