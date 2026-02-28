@@ -5,18 +5,7 @@
     
 }
 
-header {
-    background-color: rgb(106, 110, 109);
-    width: 100%;
-    position: fixed;
-    top: 0px;
-    left: 0px;
-    z-index: 2;
-}
 
-main{
-    margin-top: 100px;
-}
 body {
 
     background-image: linear-gradient(to right top, #269943, #7ba34a, #aead62, #d2b987, #e8c9b0, #d9c3b0, #cabdb1, #bcb7b2, #969690, #727570, #505754, #313939);
@@ -360,21 +349,7 @@ textarea {
 
 
  @media(max-width:1024px){
-    /* nav h1 {
-        font-size: 28px;
-        color: white;
-        position: relative;
-        left: 30px;
-        bottom: -10px;
-    }
-
-    nav h2 {
-        font-size: 18px;
-        color: white;
-        position: relative;
-        top: 25px;
-        left: 30px;
-    } */
+  
 
     .nav-menu {
         display: flex;
